@@ -1,0 +1,641 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nithin Saripalli//Running Training Planner//EN
+BEGIN:VEVENT
+SUMMARY:Run 15 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211026
+DTSTART;VALUE=DATE:20211025
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211027
+DTSTART;VALUE=DATE:20211026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211028
+DTSTART;VALUE=DATE:20211027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211029
+DTSTART;VALUE=DATE:20211028
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211030
+DTSTART;VALUE=DATE:20211029
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211031
+DTSTART;VALUE=DATE:20211030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211101
+DTSTART;VALUE=DATE:20211031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211102
+DTSTART;VALUE=DATE:20211101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211103
+DTSTART;VALUE=DATE:20211102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211104
+DTSTART;VALUE=DATE:20211103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211105
+DTSTART;VALUE=DATE:20211104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211106
+DTSTART;VALUE=DATE:20211105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 75 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211107
+DTSTART;VALUE=DATE:20211106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211108
+DTSTART;VALUE=DATE:20211107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 25 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211109
+DTSTART;VALUE=DATE:20211108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211110
+DTSTART;VALUE=DATE:20211109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211111
+DTSTART;VALUE=DATE:20211110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211112
+DTSTART;VALUE=DATE:20211111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211113
+DTSTART;VALUE=DATE:20211112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 90 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211114
+DTSTART;VALUE=DATE:20211113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211115
+DTSTART;VALUE=DATE:20211114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211116
+DTSTART;VALUE=DATE:20211115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211117
+DTSTART;VALUE=DATE:20211116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211118
+DTSTART;VALUE=DATE:20211117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211119
+DTSTART;VALUE=DATE:20211118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 mi run
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211120
+DTSTART;VALUE=DATE:20211119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211121
+DTSTART;VALUE=DATE:20211120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211122
+DTSTART;VALUE=DATE:20211121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 15 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211123
+DTSTART;VALUE=DATE:20211122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211124
+DTSTART;VALUE=DATE:20211123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211125
+DTSTART;VALUE=DATE:20211124
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211126
+DTSTART;VALUE=DATE:20211125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211127
+DTSTART;VALUE=DATE:20211126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 75 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211128
+DTSTART;VALUE=DATE:20211127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211129
+DTSTART;VALUE=DATE:20211128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211130
+DTSTART;VALUE=DATE:20211129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211201
+DTSTART;VALUE=DATE:20211130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211202
+DTSTART;VALUE=DATE:20211201
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211203
+DTSTART;VALUE=DATE:20211202
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211204
+DTSTART;VALUE=DATE:20211203
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 90 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211205
+DTSTART;VALUE=DATE:20211204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211206
+DTSTART;VALUE=DATE:20211205
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 25 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211207
+DTSTART;VALUE=DATE:20211206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211208
+DTSTART;VALUE=DATE:20211207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211209
+DTSTART;VALUE=DATE:20211208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211210
+DTSTART;VALUE=DATE:20211209
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211211
+DTSTART;VALUE=DATE:20211210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211212
+DTSTART;VALUE=DATE:20211211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211213
+DTSTART;VALUE=DATE:20211212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211214
+DTSTART;VALUE=DATE:20211213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211215
+DTSTART;VALUE=DATE:20211214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211216
+DTSTART;VALUE=DATE:20211215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211217
+DTSTART;VALUE=DATE:20211216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 mi run
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211218
+DTSTART;VALUE=DATE:20211217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 75 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211219
+DTSTART;VALUE=DATE:20211218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211220
+DTSTART;VALUE=DATE:20211219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 15 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211221
+DTSTART;VALUE=DATE:20211220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211222
+DTSTART;VALUE=DATE:20211221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211223
+DTSTART;VALUE=DATE:20211222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211224
+DTSTART;VALUE=DATE:20211223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211225
+DTSTART;VALUE=DATE:20211224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 90 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211226
+DTSTART;VALUE=DATE:20211225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211227
+DTSTART;VALUE=DATE:20211226
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211228
+DTSTART;VALUE=DATE:20211227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211229
+DTSTART;VALUE=DATE:20211228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211230
+DTSTART;VALUE=DATE:20211229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20211231
+DTSTART;VALUE=DATE:20211230
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220101
+DTSTART;VALUE=DATE:20211231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220102
+DTSTART;VALUE=DATE:20220101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220103
+DTSTART;VALUE=DATE:20220102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 25 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220104
+DTSTART;VALUE=DATE:20220103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 45 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220105
+DTSTART;VALUE=DATE:20220104
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220106
+DTSTART;VALUE=DATE:20220105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:40 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220107
+DTSTART;VALUE=DATE:20220106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220108
+DTSTART;VALUE=DATE:20220107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 75 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220109
+DTSTART;VALUE=DATE:20220108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220110
+DTSTART;VALUE=DATE:20220109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 20 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220111
+DTSTART;VALUE=DATE:20220110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220112
+DTSTART;VALUE=DATE:20220111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220113
+DTSTART;VALUE=DATE:20220112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220114
+DTSTART;VALUE=DATE:20220113
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3 mi run
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220115
+DTSTART;VALUE=DATE:20220114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 90 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220116
+DTSTART;VALUE=DATE:20220115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cross train 60 min
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220117
+DTSTART;VALUE=DATE:20220116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 15 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220118
+DTSTART;VALUE=DATE:20220117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 60 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220119
+DTSTART;VALUE=DATE:20220118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 30 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220120
+DTSTART;VALUE=DATE:20220119
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:30 min tempo
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220121
+DTSTART;VALUE=DATE:20220120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220122
+DTSTART;VALUE=DATE:20220121
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run 90 min easy
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220123
+DTSTART;VALUE=DATE:20220122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Race
+DESCRIPTION:For details\, click here https://www.halhigdon.com/training-pr
+ ograms/more-training/winter-training/\n
+DTEND;VALUE=DATE:20220124
+DTSTART;VALUE=DATE:20220123
+END:VEVENT
+END:VCALENDAR
