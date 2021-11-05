@@ -32,7 +32,7 @@ def generate_ical(schedule_name: str, start_date: dt.date):
     # Load events into Calendar
     cal = Calendar()
     cal.add('prodid', '-//Fast Walking//Running Training Planner//EN')
-    cal.add('version', '2.0')
+    cal.add('version', '2.1')
     for index, row in schedule.iterrows():
         cal.add_component(Event({"summary": row.description, "DTSTART;VALUE=DATE": row.date.strftime("%Y%m%d"),
                                  "DTEND;VALUE=DATE": (row.date + dt.timedelta(days=1)).strftime("%Y%m%d"),
